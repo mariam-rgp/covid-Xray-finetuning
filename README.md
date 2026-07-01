@@ -71,11 +71,7 @@ Data split:
 
 ---
 
-## 📦 Project 
 
-
-
----
 
 ## 💾 Model Saving
 Best model is saved using:
